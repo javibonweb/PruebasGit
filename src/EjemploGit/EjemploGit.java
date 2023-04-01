@@ -1,4 +1,12 @@
+/**
+ * 
+ */
+package EjemploGit;
 
+/**
+ * @author Lenovo
+ *
+ */
 public class EjemploGit {
 
 	public static void main(String[] args) {
